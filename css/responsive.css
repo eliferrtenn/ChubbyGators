@@ -1,0 +1,22 @@
+@media only screen and (max-width: 730px){
+    .timsah-ana-bar{
+        margin-top:7rem;
+    }
+    .timsah{
+        margin-top:4rem
+   }
+}
+
+@media only screen and (min-width: 731px){
+    .timsah-ana{
+        position: absolute;
+      }
+      .timsah-ana-bar{
+          position: absolute;
+          margin-top:10rem;
+      }
+      .timsah{
+           margin-top:8rem
+      }
+      
+}
